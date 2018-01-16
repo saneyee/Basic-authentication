@@ -1,18 +1,15 @@
 ﻿<Properties StartupConfiguration="{1A454CE2-4B76-42E4-A6CD-4158C2FCC960}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BasicAuthentication/Views/Account/Login.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicAuthentication/Program.cs">
     <Files>
-      <File FileName="BasicAuthentication/BasicAuthentication.csproj" Line="1" Column="1" />
-      <File FileName="BasicAuthentication/Models/ApplicationUser.cs" Line="6" Column="48" />
-      <File FileName="BasicAuthentication/Models/ApplicationDbContext.cs" Line="7" Column="30" />
-      <File FileName="BasicAuthentication/appsettings.json" Line="5" Column="2" />
+      <File FileName="BasicAuthentication/Models/ApplicationDbContext.cs" Line="59" Column="41" />
       <File FileName="BasicAuthentication/Startup.cs" Line="28" Column="4" />
-      <File FileName="BasicAuthentication/Controllers/AccountController.cs" Line="38" Column="49" />
-      <File FileName="BasicAuthentication/Views/Account/Index.cshtml" Line="3" Column="46" />
-      <File FileName="BasicAuthentication/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="BasicAuthentication/ViewModels/RegisterViewModel.cs" Line="22" Column="2" />
-      <File FileName="BasicAuthentication/Views/Account/Register.cshtml" Line="25" Column="1" />
-      <File FileName="BasicAuthentication/ViewModels/LoginViewModel.cs" Line="8" Column="2" />
-      <File FileName="BasicAuthentication/Views/Account/Login.cshtml" Line="20" Column="2" />
+      <File FileName="BasicAuthentication/Migrations/20180116191055_Initial.cs" Line="1" Column="1" />
+      <File FileName="BasicAuthentication/Migrations/20180116191211_AddItems.cs" Line="40" Column="12" />
+      <File FileName="BasicAuthentication/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="BasicAuthentication/Controllers/ItemController.cs" Line="26" Column="8" />
+      <File FileName="BasicAuthentication/Views/Item/Index.cshtml" Line="25" Column="41" />
+      <File FileName="BasicAuthentication/Views/Item/Create.cshtml" Line="4" Column="2" />
+      <File FileName="BasicAuthentication/Program.cs" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
