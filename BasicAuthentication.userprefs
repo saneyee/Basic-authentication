@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{1A454CE2-4B76-42E4-A6CD-4158C2FCC960}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BasicAuthentication/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicAuthentication/Views/Account/Login.cshtml">
     <Files>
       <File FileName="BasicAuthentication/BasicAuthentication.csproj" Line="1" Column="1" />
-      <File FileName="BasicAuthentication/Models/ApplicationUser.cs" Line="6" Column="29" />
-      <File FileName="BasicAuthentication/Models/ApplicationDbContext.cs" Line="10" Column="10" />
+      <File FileName="BasicAuthentication/Models/ApplicationUser.cs" Line="6" Column="48" />
+      <File FileName="BasicAuthentication/Models/ApplicationDbContext.cs" Line="7" Column="30" />
       <File FileName="BasicAuthentication/appsettings.json" Line="5" Column="2" />
-      <File FileName="BasicAuthentication/Startup.cs" Line="1" Column="1" />
+      <File FileName="BasicAuthentication/Startup.cs" Line="28" Column="4" />
+      <File FileName="BasicAuthentication/Controllers/AccountController.cs" Line="38" Column="49" />
+      <File FileName="BasicAuthentication/Views/Account/Index.cshtml" Line="3" Column="46" />
+      <File FileName="BasicAuthentication/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="BasicAuthentication/ViewModels/RegisterViewModel.cs" Line="22" Column="2" />
+      <File FileName="BasicAuthentication/Views/Account/Register.cshtml" Line="25" Column="1" />
+      <File FileName="BasicAuthentication/ViewModels/LoginViewModel.cs" Line="8" Column="2" />
+      <File FileName="BasicAuthentication/Views/Account/Login.cshtml" Line="20" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

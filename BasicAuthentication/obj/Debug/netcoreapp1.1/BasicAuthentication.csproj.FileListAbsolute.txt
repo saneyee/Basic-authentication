@@ -1,0 +1,10 @@
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/bin/Debug/netcoreapp1.1/BasicAuthentication.deps.json
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/bin/Debug/netcoreapp1.1/BasicAuthentication.runtimeconfig.json
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/bin/Debug/netcoreapp1.1/BasicAuthentication.runtimeconfig.dev.json
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/obj/Debug/netcoreapp1.1/BasicAuthentication.AssemblyInfo.cs
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/obj/Debug/netcoreapp1.1/BasicAuthentication.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/bin/Debug/netcoreapp1.1/BasicAuthentication.dll
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/bin/Debug/netcoreapp1.1/BasicAuthentication.pdb
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/obj/Debug/netcoreapp1.1/BasicAuthentication.dll
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/obj/Debug/netcoreapp1.1/BasicAuthentication.pdb
+/Users/Guest/Projects/BasicAuthentication/BasicAuthentication/obj/Debug/netcoreapp1.1/BasicAuthentication.csproj.CoreCompileInputs.cache
