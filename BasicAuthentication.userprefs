@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1A454CE2-4B76-42E4-A6CD-4158C2FCC960}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicAuthentication/Startup.cs">
+    <Files>
+      <File FileName="BasicAuthentication/BasicAuthentication.csproj" Line="1" Column="1" />
+      <File FileName="BasicAuthentication/Models/ApplicationUser.cs" Line="6" Column="29" />
+      <File FileName="BasicAuthentication/Models/ApplicationDbContext.cs" Line="10" Column="10" />
+      <File FileName="BasicAuthentication/appsettings.json" Line="5" Column="2" />
+      <File FileName="BasicAuthentication/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BasicAuthentication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
